@@ -1,0 +1,7 @@
+bot:
+    client_id: '000001313407926285'
+    client_secret: 'asdf'
+    command_prefix: '!remindme'
+    login_token: 'zzzzzzzzz'
+data:
+    connection_uri: 'mongodb://root:zzzzz@mongodb:27017/remindme?authSource=admin'
