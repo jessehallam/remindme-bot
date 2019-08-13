@@ -6,7 +6,8 @@
     "scripts": {
         "build": "tsc -p .",
         "dev": "nodemon --watch lib --delay 100ms node .",
-        "docker-build": "docker build -f Dockerfile ."
+        "docker-build": "docker build -f Dockerfile .",
+        "start": "node ."
     },
     "keywords": [],
     "author": "",
